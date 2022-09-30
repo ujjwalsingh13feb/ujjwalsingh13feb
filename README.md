@@ -1,6 +1,7 @@
+
 ### Hi there 👋, my name is Ujjwal Singh
 #### Full Stack Developer
-![Full Stack Developer](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.
 
