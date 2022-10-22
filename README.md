@@ -25,8 +25,8 @@ I am a full-stack web developer from Masai school, a passionate learner who's al
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
 </p>
-- 📫 How to reach me: ujjwalsingh13feb@gmail.com 
-- 😄 Pronouns: ENGLISH,HINDI 
+- 📫 How to reach me:@ujjwalsingh13feb@gmail.com 
+
 - ⚡ Fun fact: Cricket and Exploring new things 
 
 
