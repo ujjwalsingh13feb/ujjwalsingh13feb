@@ -5,7 +5,7 @@
 
 I am a full-stack web developer from Masai school, a passionate learner who's always willing to learn and work across technology and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm deep into Web Development.
 
-Skills: REACT / JS / HTML / CSS/GITHUB/CHAKRA UI
+
 
 - 🔭 I’m currently working on DSA 
 - 🌱 I’m currently learning REACT 
@@ -24,7 +24,6 @@ Skills: REACT / JS / HTML / CSS/GITHUB/CHAKRA UI
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
 </p>
 - 📫 How to reach me: ujjwalsingh13feb@gmail.com 
 - 😄 Pronouns: ENGLISH,HINDI 
