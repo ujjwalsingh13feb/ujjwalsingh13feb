@@ -38,3 +38,11 @@ I am a full-stack web developer from Masai school, a passionate learner who's al
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsingh13feb)  
 
 ![Profile views](https://gpvc.arturio.dev/ujjwalsingh13feb)  
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
