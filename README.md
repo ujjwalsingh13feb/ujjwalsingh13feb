@@ -1,5 +1,5 @@
 ![Full Stack Developer](https://github.com/ujjwalsingh13feb/ujjwalsingh13feb/blob/main/MY%20BANNER_u.PNG)
-### Hi 👋, I am Ujjwal Singh
+## Hi 👋, I am Ujjwal Singh
 #### Full Stack Developer
 
 
