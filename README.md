@@ -22,7 +22,7 @@ I am a full-stack web developer from Masai school, a passionate learner who's al
 </p>
 - 📫 How to reach me:ujjwalsingh13feb@gmail.com 
  
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1kIrqC-2FxujRVX7pQTHcL60oo8oWPGNT/view )**
+- 📄 Know about my experiences **[Resume](https://1drv.ms/b/s!AgqMg4voJpBTaVSwTEJ6O-MEZFY?e=M2kxhg)**
 - ⚡ Fun fact: Cricket and Exploring new things 
 
 
