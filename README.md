@@ -34,7 +34,8 @@ I am a full-stack web developer from Masai school, a passionate learner who's al
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwalsingh13feb&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ujjwalsingh13feb)  
+ [![Ujjwal Singh github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ujjwalsingh13feb&theme=dracula)](https://github.com/ujjwalsingh13feb)
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsingh13feb)  
 
